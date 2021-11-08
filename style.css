@@ -383,7 +383,7 @@ section .title::after {
 }
 /* teams section styling */
 .teams .title::after {
-  content: "Responsive Web page Below are some Snaps";
+  content: "Responsive Web page";
 }
 .teams .carousel .card {
   background: #222;
